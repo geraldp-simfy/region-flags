@@ -33,7 +33,7 @@ The sub-regions currently covered are:
 - The province Northern Ireland in Great Britain
 
 The flags are downloaded from Wikipedia. When Wikipedia flags were copyrighted,
-we worked we Wikipedia editors to either relicense them, or drew / sourced and
+we worked with Wikipedia editors to either relicense them, or drew / sourced and
 uploaded new public-domain versions.  In particular, the license for these
 flags were resolved for the initial import:
 
